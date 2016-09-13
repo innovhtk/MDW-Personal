@@ -1,0 +1,6 @@
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antenna_Controller_cmd\bin\Debug\MDW+Antenna_Controller_cmd.exe.config
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antenna_Controller_cmd\bin\Debug\MDW+Antenna_Controller_cmd.exe
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antenna_Controller_cmd\bin\Debug\MDW+Antenna_Controller_cmd.pdb
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antenna_Controller_cmd\obj\Debug\MDW+Antenna_Controller_cmd.csprojResolveAssemblyReference.cache
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antenna_Controller_cmd\obj\Debug\MDW+Antenna_Controller_cmd.exe
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antenna_Controller_cmd\obj\Debug\MDW+Antenna_Controller_cmd.pdb

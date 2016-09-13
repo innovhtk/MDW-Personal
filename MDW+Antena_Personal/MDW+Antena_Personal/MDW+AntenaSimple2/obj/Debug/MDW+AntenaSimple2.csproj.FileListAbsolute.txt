@@ -1,0 +1,6 @@
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaSimple2\bin\Debug\MDW+AntenaSimple2.exe.config
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaSimple2\bin\Debug\MDW+AntenaSimple2.exe
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaSimple2\bin\Debug\MDW+AntenaSimple2.pdb
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaSimple2\obj\Debug\MDW+AntenaSimple2.csprojResolveAssemblyReference.cache
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaSimple2\obj\Debug\MDW+AntenaSimple2.exe
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaSimple2\obj\Debug\MDW+AntenaSimple2.pdb

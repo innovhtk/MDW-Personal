@@ -1,0 +1,28 @@
+c:\users\eleazar\documents\visual studio 2013\Projects\HTK _GPI_Listener\HTK _GPI_Listener\bin\Debug\HTK _GPI_Listener.exe.config
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\HTK _GPI_Listener\HTK _GPI_Listener\bin\Debug\HTK _GPI_Listener.exe
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\HTK _GPI_Listener\HTK _GPI_Listener\bin\Debug\HTK _GPI_Listener.pdb
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\HTK _GPI_Listener\HTK _GPI_Listener\bin\Debug\CSLibrary.Diagnostics.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\HTK _GPI_Listener\HTK _GPI_Listener\bin\Debug\CSLibrary.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\HTK _GPI_Listener\HTK _GPI_Listener\obj\Debug\HTK _GPI_Listener.csprojResolveAssemblyReference.cache
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\HTK _GPI_Listener\HTK _GPI_Listener\obj\Debug\HTK _GPI_Listener.exe
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\HTK _GPI_Listener\HTK _GPI_Listener\obj\Debug\HTK _GPI_Listener.pdb
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\HTK _GPI_Listener\HTK _GPI_Listener\bin\Debug\HTKRestClient.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\HTK _GPI_Listener\HTK _GPI_Listener\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\HTK _GPI_Listener\HTK _GPI_Listener\bin\Debug\HTKRestClient.pdb
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\HTK _GPI_Listener\HTK _GPI_Listener\bin\Debug\MongoDB.Driver.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\HTK _GPI_Listener\HTK _GPI_Listener\bin\Debug\MongoDB.Bson.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\HTK _GPI_Listener\HTK _GPI_Listener\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\HTK _GPI_Listener\HTK _GPI_Listener\bin\Debug\MongoDB.Driver.xml
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\HTK _GPI_Listener\HTK _GPI_Listener\bin\Debug\MongoDB.Bson.xml
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\HTK _GPI_Listener.exe.config
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\HTK _GPI_Listener.exe
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\HTK _GPI_Listener.pdb
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\HTK _GPI_Listener\obj\Debug\HTK _GPI_Listener.csprojResolveAssemblyReference.cache
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\HTK _GPI_Listener\obj\Debug\HTK _GPI_Listener.exe
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\HTK _GPI_Listener\obj\Debug\HTK _GPI_Listener.pdb
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\HTK _GPI_Listener.exe.config
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\HTK _GPI_Listener.exe
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\HTK _GPI_Listener.pdb
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\HTK _GPI_Listener\obj\Debug\HTK _GPI_Listener.csprojResolveAssemblyReference.cache
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\HTK _GPI_Listener\obj\Debug\HTK _GPI_Listener.exe
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\HTK _GPI_Listener\obj\Debug\HTK _GPI_Listener.pdb

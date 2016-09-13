@@ -1,0 +1,41 @@
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+AntenaSimple\obj\Debug\MDW+AntenaSimple.csprojResolveAssemblyReference.cache
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+AntenaSimple\bin\Debug\MDW+AntenaSimple.exe.config
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+AntenaSimple\bin\Debug\MDW+AntenaSimple.exe
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+AntenaSimple\bin\Debug\MDW+AntenaSimple.pdb
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+AntenaSimple\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+AntenaSimple\bin\Debug\HTKRestClient.pdb
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+AntenaSimple\obj\Debug\MDW+AntenaSimple.exe
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+AntenaSimple\obj\Debug\MDW+AntenaSimple.pdb
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaSimple.exe.config
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaSimple.exe
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaSimple.pdb
+C:\bin\Debug\MDW+AntenaSimple.exe.config
+C:\bin\Debug\MDW+AntenaSimple.exe
+C:\bin\Debug\MDW+AntenaSimple.pdb
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+AntenaSimple\bin\Debug\CSLibrary.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+AntenaSimple\bin\Debug\HTKCSL.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+AntenaSimple\bin\Debug\HTKCSL.pdb
+C:\Users\JMCM\Desktop\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaSimple.exe.config
+C:\Users\JMCM\Desktop\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaSimple.exe
+C:\Users\JMCM\Desktop\MDW+Antena_Personal\MDW+AntenaSimple\obj\Debug\MDW+AntenaSimple.csprojResolveAssemblyReference.cache
+C:\Users\JMCM\Desktop\MDW+Antena_Personal\MDW+AntenaSimple\obj\Debug\MDW+AntenaSimple.exe
+C:\Users\JMCM\Desktop\MDW+Antena_Personal\MDW+AntenaSimple\obj\Debug\MDW+AntenaSimple.pdb
+C:\Users\JMCM\Desktop\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaSimple.pdb
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaSimple.exe.config
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaSimple.exe
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaSimple.pdb
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaSimple\obj\Debug\MDW+AntenaSimple.exe
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaSimple\obj\Debug\MDW+AntenaSimple.pdb
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antenna_Controller_cmd\bin\Debug\MDW+AntenaSimple.exe.config
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antenna_Controller_cmd\bin\Debug\MDW+AntenaSimple.exe
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antenna_Controller_cmd\bin\Debug\MDW+AntenaSimple.pdb
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antenna_Controller\bin\Debug\MDW+AntenaSimple.exe.config
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antenna_Controller\bin\Debug\MDW+AntenaSimple.exe
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antenna_Controller\bin\Debug\MDW+AntenaSimple.pdb
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaSimple\obj\Debug\MDW+AntenaSimple.csprojResolveAssemblyReference.cache
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaSimple.exe.config
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaSimple.exe
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaSimple.pdb
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaSimple\obj\Debug\MDW+AntenaSimple.csprojResolveAssemblyReference.cache
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaSimple\obj\Debug\MDW+AntenaSimple.exe
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaSimple\obj\Debug\MDW+AntenaSimple.pdb

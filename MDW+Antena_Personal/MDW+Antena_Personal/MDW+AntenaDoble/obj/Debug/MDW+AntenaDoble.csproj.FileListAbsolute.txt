@@ -1,0 +1,34 @@
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+AntenaDoble\bin\Debug\MDW+AntenaDoble.exe.config
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+AntenaDoble\bin\Debug\MDW+AntenaDoble.exe
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+AntenaDoble\bin\Debug\MDW+AntenaDoble.pdb
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+AntenaDoble\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+AntenaDoble\obj\Debug\MDW+AntenaDoble.csprojResolveAssemblyReference.cache
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+AntenaDoble\obj\Debug\MDW+AntenaDoble.exe
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+AntenaDoble\obj\Debug\MDW+AntenaDoble.pdb
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+AntenaDoble\bin\Debug\CSLibrary.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaDoble.exe.config
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaDoble.exe
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaDoble.pdb
+C:\bin\Debug\MDW+AntenaDoble.exe.config
+C:\bin\Debug\MDW+AntenaDoble.exe
+C:\bin\Debug\MDW+AntenaDoble.pdb
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+AntenaDoble\bin\Debug\HTKCSL.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+AntenaDoble\bin\Debug\HTKCSL.pdb
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaDoble.exe.config
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaDoble.exe
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaDoble.pdb
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaDoble\obj\Debug\MDW+AntenaDoble.exe
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaDoble\obj\Debug\MDW+AntenaDoble.pdb
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antenna_Controller_cmd\bin\Debug\MDW+AntenaDoble.exe.config
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antenna_Controller_cmd\bin\Debug\MDW+AntenaDoble.exe
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antenna_Controller_cmd\bin\Debug\MDW+AntenaDoble.pdb
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antenna_Controller\bin\Debug\MDW+AntenaDoble.exe.config
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antenna_Controller\bin\Debug\MDW+AntenaDoble.exe
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antenna_Controller\bin\Debug\MDW+AntenaDoble.pdb
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaDoble\obj\Debug\MDW+AntenaDoble.csprojResolveAssemblyReference.cache
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaDoble.exe.config
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaDoble.exe
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaDoble.pdb
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaDoble\obj\Debug\MDW+AntenaDoble.csprojResolveAssemblyReference.cache
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaDoble\obj\Debug\MDW+AntenaDoble.exe
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaDoble\obj\Debug\MDW+AntenaDoble.pdb

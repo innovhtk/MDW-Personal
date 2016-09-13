@@ -1,0 +1,10 @@
+c:\users\eleazar\documents\visual studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\bin\Debug\MDW+Antena_Personal.exe.config
+c:\users\eleazar\documents\visual studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\bin\Debug\MDW+Antena_Personal.exe
+c:\users\eleazar\documents\visual studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\bin\Debug\MDW+Antena_Personal.pdb
+c:\users\eleazar\documents\visual studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\obj\Debug\MDW+Antena_Personal.csprojResolveAssemblyReference.cache
+c:\users\eleazar\documents\visual studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\obj\Debug\MDW+Antena_Personal.exe
+c:\users\eleazar\documents\visual studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\obj\Debug\MDW+Antena_Personal.pdb
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\bin\Debug\CSLibrary.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\bin\Debug\HTKCSL.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\bin\Debug\HTKCSL.pdb

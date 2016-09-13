@@ -1,0 +1,8 @@
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\Antenna_Tester\bin\Debug\Antenna_Tester.exe.config
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\Antenna_Tester\bin\Debug\Antenna_Tester.exe
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\Antenna_Tester\bin\Debug\Antenna_Tester.pdb
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\Antenna_Tester\bin\Debug\HTKCSL.dll
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\Antenna_Tester\bin\Debug\CSLibrary.dll
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\Antenna_Tester\obj\Debug\Antenna_Tester.csprojResolveAssemblyReference.cache
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\Antenna_Tester\obj\Debug\Antenna_Tester.exe
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\Antenna_Tester\obj\Debug\Antenna_Tester.pdb

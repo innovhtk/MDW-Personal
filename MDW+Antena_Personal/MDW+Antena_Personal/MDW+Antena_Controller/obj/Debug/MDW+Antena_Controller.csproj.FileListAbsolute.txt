@@ -1,0 +1,36 @@
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+Antena_Controller.exe
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+Antena_Controller.pdb
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Controller\obj\Debug\MDW+Antena_Controller.csprojResolveAssemblyReference.cache
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Controller\obj\Debug\MDW_Antena_Controller.Form1.resources
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Controller\obj\Debug\MDW_Antena_Controller.Properties.Resources.resources
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Controller\obj\Debug\MDW+Antena_Controller.csproj.GenerateResource.Cache
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Controller\obj\Debug\MDW+Antena_Controller.exe
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Controller\obj\Debug\MDW+Antena_Controller.pdb
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+Antena_Controller.exe.config
+C:\Users\JMCM\Desktop\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+Antena_Controller.exe.config
+C:\Users\JMCM\Desktop\MDW+Antena_Personal\MDW+Antena_Controller\obj\Debug\MDW+Antena_Controller.exe
+C:\Users\JMCM\Desktop\MDW+Antena_Personal\MDW+Antena_Controller\obj\Debug\MDW+Antena_Controller.pdb
+C:\Users\JMCM\Desktop\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+Antena_Controller.exe
+C:\Users\JMCM\Desktop\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+Antena_Controller.pdb
+C:\Users\JMCM\Desktop\MDW+Antena_Personal\MDW+Antena_Controller\obj\Debug\MDW+Antena_Controller.csprojResolveAssemblyReference.cache
+C:\Users\JMCM\Desktop\MDW+Antena_Personal\MDW+Antena_Controller\obj\Debug\MDW_Antena_Controller.Form1.resources
+C:\Users\JMCM\Desktop\MDW+Antena_Personal\MDW+Antena_Controller\obj\Debug\MDW_Antena_Controller.Properties.Resources.resources
+C:\Users\JMCM\Desktop\MDW+Antena_Personal\MDW+Antena_Controller\obj\Debug\MDW+Antena_Controller.csproj.GenerateResource.Cache
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+Antena_Controller.exe.config
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\obj\Debug\MDW+Antena_Controller.exe
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\obj\Debug\MDW+Antena_Controller.pdb
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+Antena_Controller.exe
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+Antena_Controller.pdb
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\obj\Debug\MDW+Antena_Controller.csprojResolveAssemblyReference.cache
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\obj\Debug\MDW_Antena_Controller.Form1.resources
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\obj\Debug\MDW_Antena_Controller.Properties.Resources.resources
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\obj\Debug\MDW+Antena_Controller.csproj.GenerateResource.Cache
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+Antena_Controller.exe.config
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\obj\Debug\MDW+Antena_Controller.exe
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\obj\Debug\MDW+Antena_Controller.pdb
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+Antena_Controller.exe
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+Antena_Controller.pdb
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\obj\Debug\MDW+Antena_Controller.csprojResolveAssemblyReference.cache
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\obj\Debug\MDW_Antena_Controller.Form1.resources
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\obj\Debug\MDW_Antena_Controller.Properties.Resources.resources
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\obj\Debug\MDW+Antena_Controller.csproj.GenerateResource.Cache

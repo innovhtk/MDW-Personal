@@ -1,0 +1,23 @@
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaDobleComedor2\bin\Debug\MDW+AntenaDobleComedor2.exe.config
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaDobleComedor2\bin\Debug\MDW+AntenaDobleComedor2.exe
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaDobleComedor2\bin\Debug\MDW+AntenaDobleComedor2.pdb
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaDobleComedor2\bin\Debug\HTKLibrary.Readers.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaDobleComedor2\bin\Debug\HTKRestClient.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaDobleComedor2\bin\Debug\CSLibrary.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaDobleComedor2\bin\Debug\MongoDB.Driver.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaDobleComedor2\bin\Debug\MongoDB.Bson.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaDobleComedor2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaDobleComedor2\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaDobleComedor2\bin\Debug\HTKLibrary.Readers.pdb
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaDobleComedor2\bin\Debug\HTKRestClient.pdb
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaDobleComedor2\bin\Debug\MongoDB.Driver.xml
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaDobleComedor2\bin\Debug\MongoDB.Bson.xml
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaDobleComedor2\obj\Debug\MDW+AntenaDobleComedor2.csprojResolveAssemblyReference.cache
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaDobleComedor2\obj\Debug\MDW+AntenaDobleComedor2.exe
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaDobleComedor2\obj\Debug\MDW+AntenaDobleComedor2.pdb
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaDobleComedor2.exe.config
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaDobleComedor2.exe
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaDobleComedor2.pdb
+C:\bin\Debug\MDW+AntenaDobleComedor2.exe.config
+C:\bin\Debug\MDW+AntenaDobleComedor2.exe
+C:\bin\Debug\MDW+AntenaDobleComedor2.pdb

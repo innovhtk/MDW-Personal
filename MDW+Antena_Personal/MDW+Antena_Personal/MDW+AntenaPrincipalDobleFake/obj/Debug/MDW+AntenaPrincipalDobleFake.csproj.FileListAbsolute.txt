@@ -1,0 +1,5 @@
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaPrincipalDobleFake\bin\Debug\MDW+AntenaPrincipalDobleFake.exe
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaPrincipalDobleFake\bin\Debug\MDW+AntenaPrincipalDobleFake.pdb
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaPrincipalDobleFake\obj\Debug\MDW+AntenaPrincipalDobleFake.csprojResolveAssemblyReference.cache
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaPrincipalDobleFake\obj\Debug\MDW+AntenaPrincipalDobleFake.exe
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaPrincipalDobleFake\obj\Debug\MDW+AntenaPrincipalDobleFake.pdb

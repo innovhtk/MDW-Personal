@@ -1,0 +1,12 @@
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaPrincipalDoble.exe.config
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaPrincipalDoble.exe
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaPrincipalDoble.pdb
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaPrincipalDoble\obj\Debug\MDW+AntenaPrincipalDoble.csprojResolveAssemblyReference.cache
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaPrincipalDoble\obj\Debug\MDW+AntenaPrincipalDoble.exe
+C:\Users\Eleazar\Downloads\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaPrincipalDoble\obj\Debug\MDW+AntenaPrincipalDoble.pdb
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaPrincipalDoble.exe.config
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaPrincipalDoble.exe
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+Antena_Controller\bin\Debug\MDW+AntenaPrincipalDoble.pdb
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaPrincipalDoble\obj\Debug\MDW+AntenaPrincipalDoble.csprojResolveAssemblyReference.cache
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaPrincipalDoble\obj\Debug\MDW+AntenaPrincipalDoble.exe
+C:\Users\Eleazar\Documents\Visual Studio 2013\Projects\MDW+Antena_Personal\MDW+Antena_Personal\MDW+AntenaPrincipalDoble\obj\Debug\MDW+AntenaPrincipalDoble.pdb

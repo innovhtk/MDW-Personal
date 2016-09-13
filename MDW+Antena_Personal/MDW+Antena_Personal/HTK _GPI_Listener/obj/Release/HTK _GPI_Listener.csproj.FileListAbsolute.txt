@@ -1,0 +1,6 @@
+c:\users\eleazar\documents\visual studio 2013\Projects\HTK _GPI_Listener\HTK _GPI_Listener\bin\Release\HTK _GPI_Listener.exe.config
+c:\users\eleazar\documents\visual studio 2013\Projects\HTK _GPI_Listener\HTK _GPI_Listener\bin\Release\HTK _GPI_Listener.exe
+c:\users\eleazar\documents\visual studio 2013\Projects\HTK _GPI_Listener\HTK _GPI_Listener\bin\Release\HTK _GPI_Listener.pdb
+c:\users\eleazar\documents\visual studio 2013\Projects\HTK _GPI_Listener\HTK _GPI_Listener\obj\Release\HTK _GPI_Listener.csprojResolveAssemblyReference.cache
+c:\users\eleazar\documents\visual studio 2013\Projects\HTK _GPI_Listener\HTK _GPI_Listener\obj\Release\HTK _GPI_Listener.exe
+c:\users\eleazar\documents\visual studio 2013\Projects\HTK _GPI_Listener\HTK _GPI_Listener\obj\Release\HTK _GPI_Listener.pdb
