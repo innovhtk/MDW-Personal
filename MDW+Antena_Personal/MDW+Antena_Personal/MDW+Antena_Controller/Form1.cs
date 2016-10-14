@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 using System.Runtime.InteropServices;
 using System.Threading;
@@ -178,6 +178,10 @@ namespace MDW_Antena_Controller
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            cbConectarPrincipalDoble.Checked = true;
+            cbConectarEmergencia.Checked = true;
+            cbComedorDoble.Checked = true;
+            cbConectarExclusas.Checked = true;
             Task.Factory.StartNew(() => ConstantCheck());
            
         }
